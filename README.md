@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [hamada/porfolio](hamada/porfolio)
+- 👨‍💻 All of my projects are available at [hamada/porfolio](https://hamada017.github.io/portfolio/?#home)
 
 - 📫 How to reach me **bacharhamada1@gmail.com**
 
